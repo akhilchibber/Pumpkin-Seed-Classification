@@ -4,12 +4,6 @@
 </p>
 
 ## Dataset
-The dataset used in this project can be found on Kaggle: [Plant Seedlings Classification Dataset](https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset)
-<p align="center">
-  <img src="https://github.com/akhilchibber/Plant-Seedlings-Classification/blob/main/Plant-Seedlings-Classification.jpg?raw=true" alt="earthml Logo">
-</p>
-
-## Dataset
 The dataset used in this project can be found on Kaggle: [Pumpkin Seeds Classification Dataset](https://www.kaggle.com/datasets/vbookshelf/v2-plant-seedlings-dataset). 
 
 ## Contributing
