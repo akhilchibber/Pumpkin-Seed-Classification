@@ -1,6 +1,6 @@
 # Deep Learning based Pumpkin Seed Classification
 <p align="center">
-  <img src="https://github.com/akhilchibber/Plant-Seedlings-Classification/blob/main/Plant-Seedlings-Classification.jpg?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Pumpkin-Seed-Classification/blob/main/Pumpkin-Seeds.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
